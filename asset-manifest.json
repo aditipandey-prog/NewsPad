@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsPad/static/css/main.e6c13ad2.css",
+    "main.js": "/NewsPad/static/js/main.20cd9e4b.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsPad/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsPad/static/media/loading.56d800f1967469afb04c.gif",
+    "index.html": "/NewsPad/index.html",
+    "main.e6c13ad2.css.map": "/NewsPad/static/css/main.e6c13ad2.css.map",
+    "main.20cd9e4b.js.map": "/NewsPad/static/js/main.20cd9e4b.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsPad/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20cd9e4b.js"
+  ]
+}
