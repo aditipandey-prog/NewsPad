@@ -12,7 +12,7 @@ const News =(props)=> {
   
     const UpadteDetails=async ()=>{
         props.setProgress(10)
-        let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
+        let url=`http://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
         setLoading(true)
         props.setProgress(50)
         let data= await fetch(url);
